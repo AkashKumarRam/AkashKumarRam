@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Ram</h1>
-<div align="center"> <img src="https://github.com/AkashKumarRam/react-native-dating-app/assets/114729514/6dc38b74-02f4-4225-8649-e47004e82d83"> </div>
+<div align="center"> <img src="https://github.com/AkashKumarRam/NFT-Website/assets/114729514/dd2b7aa3-dead-4dc0-a2bc-8cc381501823"></div>
 <h3 align="center">A passionate Frontend Developer From India. I work in Corporate IT Sector.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
